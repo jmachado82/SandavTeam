@@ -1,4 +1,4 @@
-package com.nboot.javatestapi.controllers;
+package com.boot.javatestapi.controllers;
 
 
 
